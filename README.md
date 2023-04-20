@@ -1,10 +1,11 @@
 # TurkBot
 
-Only requirements are 
+## Python Requirements 
 * discord.py (rewrite)
 * qBittorrent
 
-## qBittorrent must be installed and have a running HTTP remote control.
+## Torrent Software Requirements 
+qBittorrent must be installed and have a running HTTP remote control.
 ^ this can be enabled by opening qBittorrent and following: 
 Tools > Options > Web UI > Web User Interface (<- check this box)
 
