@@ -2,7 +2,7 @@
 
 ## Python Requirements 
 * discord.py (rewrite)
-* qBittorrent
+* python-qBittorrent
 
 ## Torrent Software Requirements 
 qBittorrent must be installed and have a running HTTP remote control.
