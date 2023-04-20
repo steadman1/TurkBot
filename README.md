@@ -6,8 +6,8 @@
 
 ## Torrent Software Requirements 
 qBittorrent must be installed and have a running HTTP remote control.
-^ this can be enabled by opening qBittorrent and following: 
-Tools > Options > Web UI > Web User Interface (<- check this box)
+the HTTP remote control can be enabled by opening qBittorrent and
+following: Tools > Options > Web UI > Web User Interface (<- enable this)
 
 ## Other
 Make sure to configure the directory for torrents to be stored and the
