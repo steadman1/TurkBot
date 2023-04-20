@@ -76,6 +76,6 @@ async def on_reaction_add(reaction, member):
         message = await send_embed(reaction, embed)
 
 
-TOKEN = "MTA5NTUzOTkzMjMyOTY3Mjc4NQ.GsAsFu.iFnJQhiv3om8v384ECAdUb-YIiRtu-CEhqFcY8"
+TOKEN = "YOUR_BOT_TOKEN"
 
 bot.run(TOKEN)
